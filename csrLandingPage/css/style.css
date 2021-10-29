@@ -2822,3 +2822,10 @@ a.view-details-link:hover span {
     border-left: 8px solid transparent;
     top: -8px;
 }
+
+
+h2,h5 {
+    text-decoration: underline;
+    -webkit-text-decoration-color: #E18728;
+    text-decoration-color: #E18728; 
+   }
